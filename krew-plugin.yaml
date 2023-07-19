@@ -35,6 +35,6 @@ spec:
         matchLabels:
           os: freebsd
           arch: amd64
-      uri: https://github.com/kfsoftware/hlf-operator/releases/download/v1.5.1/kubectl-hlf_1.5.1_linux_amd64.zip
+      uri: https://github.com/kfsoftware/hlf-operator/releases/download/v1.5.1/kubectl-hlf_1.5.1_freebsd_amd64.zip
       sha256: 69846ea653fc8ffc74971fa3689ac9a95a3aff3e840c59bb49ae7f653e4f9f11
       bin: kubectl-hlf
